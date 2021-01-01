@@ -6,7 +6,7 @@ man = ["-----\n|   |\n|\n|\n|\n-----\n",
 "-----\n|   |\n|   0\n|  |||\n|  /\n-----\n",
 "-----\n|   |\n|   0\n|  |||\n|  / \\ \n-----\n"]
 
-word = "Theron is a loser".lower()
+word = "word".lower()
 
 usedLetter = []
 
